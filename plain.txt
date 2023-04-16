@@ -1,0 +1,12 @@
+1- make the markup whic is just an empyt div
+2- create the styling
+3- create an object that contians alot of paragrphs
+4- we create a function that choose one of those randomly
+5- create a fuction that liten to all the inputs and put them in an array and compare it with our pargarph 
+6- if our input is equal to the pargarph we put specail class on the letter div to make its background green 
+7- if not we put a wrong class which it's background is red
+8- i want that the time running for the specifc time and when end it caluclate the mistakes and the how many words typed per minute
+9- if the paragraph ended and the time not it get another pargraph for the user
+---  
+I want to make the start page
+I want to make the result page
